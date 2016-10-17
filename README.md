@@ -1,1 +1,1 @@
-# spring boot data jpa and QueryDSL sample project
+# Spring Boot Data JPA & QueryDSL 샘플 프로젝트
